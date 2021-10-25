@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DigitalTwin",
+			"Path": "D:\\Code\\UnrealEngine\\Test\\DigitalTwin\\Source\\DigitalTwin.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DigitalTwinEditor",
+			"Path": "D:\\Code\\UnrealEngine\\Test\\DigitalTwin\\Source\\DigitalTwinEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
